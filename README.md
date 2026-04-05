@@ -5,6 +5,7 @@ A modern and intuitive mobile application built using React Native (Expo) to hel
 Finoryx is designed with a focus on clean UI, smooth user experience, and practical financial insights, making personal finance management simple and effective.
 
 ---
+demo link :- https://fin-pulse-app-kappa.vercel.app/
 
 ## 🚀 Features
 
