@@ -1,20 +1,63 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 💰 Finoryx – Personal Finance Companion App
 
-# Run and deploy your AI Studio app
+A modern and intuitive mobile application built using React Native (Expo) to help users track their income, expenses, and savings efficiently.
 
-This contains everything you need to run your app locally.
+Finoryx is designed with a focus on clean UI, smooth user experience, and practical financial insights, making personal finance management simple and effective.
 
-View your app in AI Studio: https://ai.studio/apps/8836011a-7c42-4474-ad2d-c3c1aa1e065f
+---
 
-## Run Locally
+## 🚀 Features
 
-**Prerequisites:**  Node.js
+### 📊 Dashboard
+- View current balance, total income, and total expenses
+- Visual representation of spending (Pie/Bar Chart)
+- Savings progress tracker
 
+### 💸 Expense Management
+- Add, edit, and delete transactions
+- Categorize expenses (Food, Travel, Bills, etc.)
+- Track daily spending habits
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+### 💰 Income Tracking
+- Record multiple income sources
+- Maintain financial history
+
+### 🎯 Budget & Savings
+- Set savings goals
+- Monitor progress with visual indicators
+
+### 🔍 Smart Insights (Optional/Advanced)
+- Spending analysis by category
+- Identify high-expense areas
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React Native (Expo)
+- **State Management:** React Hooks / Context API
+- **UI Components:** Custom + React Native libraries
+- **Charts:** Recharts / Victory Native / Chart Kit
+- **Storage:** AsyncStorage / Local Storage
+
+---
+
+## 📱 Screens
+
+- Home Dashboard
+- Add Transaction Screen
+- Transaction History
+- Budget / Savings Screen
+
+---
+
+## 🎨 UI/UX Focus
+
+- Minimal and clean design
+- Smooth navigation
+- User-friendly interactions
+- Responsive layout
+
+---
+
+## 📂 Project Structure
